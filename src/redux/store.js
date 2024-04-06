@@ -37,7 +37,6 @@
 
 // export const persistor = persistStore(store);
 
-//замінити
 
 import { configureStore } from "@reduxjs/toolkit";
 import contactsSlice from "./contactsSlice";
